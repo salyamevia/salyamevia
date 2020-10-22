@@ -1,4 +1,4 @@
-### Hi there 👋
+## Halo, Hello, こんにちは 👋
 
 <!--
 **salyamevia/salyamevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I'm Alya**
+I'm a computer science student at Bandung Institue of Technology. Aiming to be a front-end engineer, user interface designer, and illustrator.
+Find me on : [LinkedIn](https://www.linkedin.com/in/shaffira-alya-mevia-670661198/) | [Instagram](https://www.instagram.com/salyamevia/) | [Dribble](https://dribbble.com/salyamevia) | [Behance](https://www.behance.net/salyamevia)
+
+
