@@ -6,4 +6,5 @@ Find me on : [LinkedIn](https://www.linkedin.com/in/shaffira-alya-mevia-67066119
 
 **Current Projects**
 - Personal Website
-- Benkyou! Discord Bot
+- Benkyou! Discord.py Bot
+- SapicowBot Discord.js
