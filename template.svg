@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a data scientist. Currently trying to continue my studies</text>
-    <text x="15" y="50">for an overseas masters while juggling D&D Sessions~</text>
+    <text x="15" y="50">for an overseas masters while juggling D&#x26;D Sessions~</text>
   </g>
 
   <!-- typing 4 -->
